@@ -1,5 +1,5 @@
-# Tutorial Report - PostgreSQL Python: Inserting Data Into a Table
-This tutorial report aims to create a table and insert data in PostgreSQL using Python.
+# Tutorial Report - PostgreSQL Python: Inserting Data Into a Database
+This tutorial aims to create a table and insert data into a database in PostgreSQL using Python.
 
 ## Installing PostgreSQL
 Download PostgreSQL in your respective OS using [this link](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) and follow the installation wizard.  
