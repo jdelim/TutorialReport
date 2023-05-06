@@ -70,11 +70,3 @@ def create_tables():
 
 if __name__ == '__main__':
     create_tables()
-
-# steps so far:
-# 1) install postgresql and python
-# 2) create a database called TestDB through pgAdmin or psql (cmd prompt)
-# 3) run the create_table.py file ("python create_table.py")
-# 4) verify table creation in psql using \dt (ensure that you are in the correct database first)
-# 5) run the insert_data.py file ("python insert_data.py")
-# 6) verify data insertion using "SELECT * FROM vendors;"
